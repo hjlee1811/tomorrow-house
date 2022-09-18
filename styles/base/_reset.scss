@@ -5,11 +5,13 @@
 }
 
 html {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: $font-main;
+  font-size: $font-size-16;
 }
 
 body {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: $font-main;
+  color: $primary;
 }
 
 h1 {
